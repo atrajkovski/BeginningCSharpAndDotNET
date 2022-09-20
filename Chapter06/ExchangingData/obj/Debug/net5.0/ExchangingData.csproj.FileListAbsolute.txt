@@ -1,0 +1,16 @@
+C:\Users\Trajkovski\Documents\Full stack Development\BeginningCSharpAndDotNET\Chapter06\ExchangingData\bin\Debug\net5.0\ExchangingData.exe
+C:\Users\Trajkovski\Documents\Full stack Development\BeginningCSharpAndDotNET\Chapter06\ExchangingData\bin\Debug\net5.0\ExchangingData.deps.json
+C:\Users\Trajkovski\Documents\Full stack Development\BeginningCSharpAndDotNET\Chapter06\ExchangingData\bin\Debug\net5.0\ExchangingData.runtimeconfig.json
+C:\Users\Trajkovski\Documents\Full stack Development\BeginningCSharpAndDotNET\Chapter06\ExchangingData\bin\Debug\net5.0\ExchangingData.runtimeconfig.dev.json
+C:\Users\Trajkovski\Documents\Full stack Development\BeginningCSharpAndDotNET\Chapter06\ExchangingData\bin\Debug\net5.0\ExchangingData.dll
+C:\Users\Trajkovski\Documents\Full stack Development\BeginningCSharpAndDotNET\Chapter06\ExchangingData\bin\Debug\net5.0\ExchangingData.pdb
+C:\Users\Trajkovski\Documents\Full stack Development\BeginningCSharpAndDotNET\Chapter06\ExchangingData\obj\Debug\net5.0\ExchangingData.csproj.AssemblyReference.cache
+C:\Users\Trajkovski\Documents\Full stack Development\BeginningCSharpAndDotNET\Chapter06\ExchangingData\obj\Debug\net5.0\ExchangingData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trajkovski\Documents\Full stack Development\BeginningCSharpAndDotNET\Chapter06\ExchangingData\obj\Debug\net5.0\ExchangingData.AssemblyInfoInputs.cache
+C:\Users\Trajkovski\Documents\Full stack Development\BeginningCSharpAndDotNET\Chapter06\ExchangingData\obj\Debug\net5.0\ExchangingData.AssemblyInfo.cs
+C:\Users\Trajkovski\Documents\Full stack Development\BeginningCSharpAndDotNET\Chapter06\ExchangingData\obj\Debug\net5.0\ExchangingData.csproj.CoreCompileInputs.cache
+C:\Users\Trajkovski\Documents\Full stack Development\BeginningCSharpAndDotNET\Chapter06\ExchangingData\obj\Debug\net5.0\ExchangingData.dll
+C:\Users\Trajkovski\Documents\Full stack Development\BeginningCSharpAndDotNET\Chapter06\ExchangingData\obj\Debug\net5.0\refint\ExchangingData.dll
+C:\Users\Trajkovski\Documents\Full stack Development\BeginningCSharpAndDotNET\Chapter06\ExchangingData\obj\Debug\net5.0\ExchangingData.pdb
+C:\Users\Trajkovski\Documents\Full stack Development\BeginningCSharpAndDotNET\Chapter06\ExchangingData\obj\Debug\net5.0\ExchangingData.genruntimeconfig.cache
+C:\Users\Trajkovski\Documents\Full stack Development\BeginningCSharpAndDotNET\Chapter06\ExchangingData\obj\Debug\net5.0\ref\ExchangingData.dll

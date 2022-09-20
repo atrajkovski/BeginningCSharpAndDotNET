@@ -1,0 +1,16 @@
+C:\Users\Trajkovski\Documents\Full stack Development\BeginningCSharpAndDotNET\Chapter06\OveroadingFuntions\bin\Debug\net5.0\OveroadingFuntions.exe
+C:\Users\Trajkovski\Documents\Full stack Development\BeginningCSharpAndDotNET\Chapter06\OveroadingFuntions\bin\Debug\net5.0\OveroadingFuntions.deps.json
+C:\Users\Trajkovski\Documents\Full stack Development\BeginningCSharpAndDotNET\Chapter06\OveroadingFuntions\bin\Debug\net5.0\OveroadingFuntions.runtimeconfig.json
+C:\Users\Trajkovski\Documents\Full stack Development\BeginningCSharpAndDotNET\Chapter06\OveroadingFuntions\bin\Debug\net5.0\OveroadingFuntions.runtimeconfig.dev.json
+C:\Users\Trajkovski\Documents\Full stack Development\BeginningCSharpAndDotNET\Chapter06\OveroadingFuntions\bin\Debug\net5.0\OveroadingFuntions.dll
+C:\Users\Trajkovski\Documents\Full stack Development\BeginningCSharpAndDotNET\Chapter06\OveroadingFuntions\bin\Debug\net5.0\OveroadingFuntions.pdb
+C:\Users\Trajkovski\Documents\Full stack Development\BeginningCSharpAndDotNET\Chapter06\OveroadingFuntions\obj\Debug\net5.0\OveroadingFuntions.csproj.AssemblyReference.cache
+C:\Users\Trajkovski\Documents\Full stack Development\BeginningCSharpAndDotNET\Chapter06\OveroadingFuntions\obj\Debug\net5.0\OveroadingFuntions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trajkovski\Documents\Full stack Development\BeginningCSharpAndDotNET\Chapter06\OveroadingFuntions\obj\Debug\net5.0\OveroadingFuntions.AssemblyInfoInputs.cache
+C:\Users\Trajkovski\Documents\Full stack Development\BeginningCSharpAndDotNET\Chapter06\OveroadingFuntions\obj\Debug\net5.0\OveroadingFuntions.AssemblyInfo.cs
+C:\Users\Trajkovski\Documents\Full stack Development\BeginningCSharpAndDotNET\Chapter06\OveroadingFuntions\obj\Debug\net5.0\OveroadingFuntions.csproj.CoreCompileInputs.cache
+C:\Users\Trajkovski\Documents\Full stack Development\BeginningCSharpAndDotNET\Chapter06\OveroadingFuntions\obj\Debug\net5.0\OveroadingFuntions.dll
+C:\Users\Trajkovski\Documents\Full stack Development\BeginningCSharpAndDotNET\Chapter06\OveroadingFuntions\obj\Debug\net5.0\refint\OveroadingFuntions.dll
+C:\Users\Trajkovski\Documents\Full stack Development\BeginningCSharpAndDotNET\Chapter06\OveroadingFuntions\obj\Debug\net5.0\OveroadingFuntions.pdb
+C:\Users\Trajkovski\Documents\Full stack Development\BeginningCSharpAndDotNET\Chapter06\OveroadingFuntions\obj\Debug\net5.0\OveroadingFuntions.genruntimeconfig.cache
+C:\Users\Trajkovski\Documents\Full stack Development\BeginningCSharpAndDotNET\Chapter06\OveroadingFuntions\obj\Debug\net5.0\ref\OveroadingFuntions.dll

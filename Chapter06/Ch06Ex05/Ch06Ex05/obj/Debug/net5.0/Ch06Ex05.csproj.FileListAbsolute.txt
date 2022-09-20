@@ -1,0 +1,16 @@
+C:\Users\Trajkovski\Documents\Full stack Development\BeginningCSharpAndDotNET\Chapter06\Ch06Ex05\Ch06Ex05\bin\Debug\net5.0\Ch06Ex05.exe
+C:\Users\Trajkovski\Documents\Full stack Development\BeginningCSharpAndDotNET\Chapter06\Ch06Ex05\Ch06Ex05\bin\Debug\net5.0\Ch06Ex05.deps.json
+C:\Users\Trajkovski\Documents\Full stack Development\BeginningCSharpAndDotNET\Chapter06\Ch06Ex05\Ch06Ex05\bin\Debug\net5.0\Ch06Ex05.runtimeconfig.json
+C:\Users\Trajkovski\Documents\Full stack Development\BeginningCSharpAndDotNET\Chapter06\Ch06Ex05\Ch06Ex05\bin\Debug\net5.0\Ch06Ex05.runtimeconfig.dev.json
+C:\Users\Trajkovski\Documents\Full stack Development\BeginningCSharpAndDotNET\Chapter06\Ch06Ex05\Ch06Ex05\bin\Debug\net5.0\Ch06Ex05.dll
+C:\Users\Trajkovski\Documents\Full stack Development\BeginningCSharpAndDotNET\Chapter06\Ch06Ex05\Ch06Ex05\bin\Debug\net5.0\Ch06Ex05.pdb
+C:\Users\Trajkovski\Documents\Full stack Development\BeginningCSharpAndDotNET\Chapter06\Ch06Ex05\Ch06Ex05\obj\Debug\net5.0\Ch06Ex05.csproj.AssemblyReference.cache
+C:\Users\Trajkovski\Documents\Full stack Development\BeginningCSharpAndDotNET\Chapter06\Ch06Ex05\Ch06Ex05\obj\Debug\net5.0\Ch06Ex05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trajkovski\Documents\Full stack Development\BeginningCSharpAndDotNET\Chapter06\Ch06Ex05\Ch06Ex05\obj\Debug\net5.0\Ch06Ex05.AssemblyInfoInputs.cache
+C:\Users\Trajkovski\Documents\Full stack Development\BeginningCSharpAndDotNET\Chapter06\Ch06Ex05\Ch06Ex05\obj\Debug\net5.0\Ch06Ex05.AssemblyInfo.cs
+C:\Users\Trajkovski\Documents\Full stack Development\BeginningCSharpAndDotNET\Chapter06\Ch06Ex05\Ch06Ex05\obj\Debug\net5.0\Ch06Ex05.csproj.CoreCompileInputs.cache
+C:\Users\Trajkovski\Documents\Full stack Development\BeginningCSharpAndDotNET\Chapter06\Ch06Ex05\Ch06Ex05\obj\Debug\net5.0\Ch06Ex05.dll
+C:\Users\Trajkovski\Documents\Full stack Development\BeginningCSharpAndDotNET\Chapter06\Ch06Ex05\Ch06Ex05\obj\Debug\net5.0\refint\Ch06Ex05.dll
+C:\Users\Trajkovski\Documents\Full stack Development\BeginningCSharpAndDotNET\Chapter06\Ch06Ex05\Ch06Ex05\obj\Debug\net5.0\Ch06Ex05.pdb
+C:\Users\Trajkovski\Documents\Full stack Development\BeginningCSharpAndDotNET\Chapter06\Ch06Ex05\Ch06Ex05\obj\Debug\net5.0\Ch06Ex05.genruntimeconfig.cache
+C:\Users\Trajkovski\Documents\Full stack Development\BeginningCSharpAndDotNET\Chapter06\Ch06Ex05\Ch06Ex05\obj\Debug\net5.0\ref\Ch06Ex05.dll
