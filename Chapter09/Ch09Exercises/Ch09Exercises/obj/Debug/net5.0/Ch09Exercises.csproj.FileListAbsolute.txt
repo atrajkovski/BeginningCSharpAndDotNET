@@ -1,0 +1,16 @@
+C:\Users\Trajkovski\Documents\Full stack Development\BeginningCSharpAndDotNET\Chapter09\Ch09Exercises\Ch09Exercises\bin\Debug\net5.0\Ch09Exercises.exe
+C:\Users\Trajkovski\Documents\Full stack Development\BeginningCSharpAndDotNET\Chapter09\Ch09Exercises\Ch09Exercises\bin\Debug\net5.0\Ch09Exercises.deps.json
+C:\Users\Trajkovski\Documents\Full stack Development\BeginningCSharpAndDotNET\Chapter09\Ch09Exercises\Ch09Exercises\bin\Debug\net5.0\Ch09Exercises.runtimeconfig.json
+C:\Users\Trajkovski\Documents\Full stack Development\BeginningCSharpAndDotNET\Chapter09\Ch09Exercises\Ch09Exercises\bin\Debug\net5.0\Ch09Exercises.runtimeconfig.dev.json
+C:\Users\Trajkovski\Documents\Full stack Development\BeginningCSharpAndDotNET\Chapter09\Ch09Exercises\Ch09Exercises\bin\Debug\net5.0\Ch09Exercises.dll
+C:\Users\Trajkovski\Documents\Full stack Development\BeginningCSharpAndDotNET\Chapter09\Ch09Exercises\Ch09Exercises\bin\Debug\net5.0\Ch09Exercises.pdb
+C:\Users\Trajkovski\Documents\Full stack Development\BeginningCSharpAndDotNET\Chapter09\Ch09Exercises\Ch09Exercises\obj\Debug\net5.0\Ch09Exercises.csproj.AssemblyReference.cache
+C:\Users\Trajkovski\Documents\Full stack Development\BeginningCSharpAndDotNET\Chapter09\Ch09Exercises\Ch09Exercises\obj\Debug\net5.0\Ch09Exercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trajkovski\Documents\Full stack Development\BeginningCSharpAndDotNET\Chapter09\Ch09Exercises\Ch09Exercises\obj\Debug\net5.0\Ch09Exercises.AssemblyInfoInputs.cache
+C:\Users\Trajkovski\Documents\Full stack Development\BeginningCSharpAndDotNET\Chapter09\Ch09Exercises\Ch09Exercises\obj\Debug\net5.0\Ch09Exercises.AssemblyInfo.cs
+C:\Users\Trajkovski\Documents\Full stack Development\BeginningCSharpAndDotNET\Chapter09\Ch09Exercises\Ch09Exercises\obj\Debug\net5.0\Ch09Exercises.csproj.CoreCompileInputs.cache
+C:\Users\Trajkovski\Documents\Full stack Development\BeginningCSharpAndDotNET\Chapter09\Ch09Exercises\Ch09Exercises\obj\Debug\net5.0\Ch09Exercises.dll
+C:\Users\Trajkovski\Documents\Full stack Development\BeginningCSharpAndDotNET\Chapter09\Ch09Exercises\Ch09Exercises\obj\Debug\net5.0\refint\Ch09Exercises.dll
+C:\Users\Trajkovski\Documents\Full stack Development\BeginningCSharpAndDotNET\Chapter09\Ch09Exercises\Ch09Exercises\obj\Debug\net5.0\Ch09Exercises.pdb
+C:\Users\Trajkovski\Documents\Full stack Development\BeginningCSharpAndDotNET\Chapter09\Ch09Exercises\Ch09Exercises\obj\Debug\net5.0\Ch09Exercises.genruntimeconfig.cache
+C:\Users\Trajkovski\Documents\Full stack Development\BeginningCSharpAndDotNET\Chapter09\Ch09Exercises\Ch09Exercises\obj\Debug\net5.0\ref\Ch09Exercises.dll
